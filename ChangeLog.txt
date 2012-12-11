@@ -1,0 +1,19 @@
+Version 0.8 
+	* .ship tweaks, improved boundries and weapon mounts.
+	* Gave the gedune their very own ship and fighter engine styles. 
+	* big nerf to flare PD. Those Duri were murderously scary vs frigates. Still are.
+	* Adjusted colour of the Nuclear Burn system to match the new engine styles.
+	* Added repeater with graphics!
+	* Tenzen Tweaks
+	* Gedune now <3 the flarePD
+	* Spammy repeater added, fun gun.
+	* Dahaki super shield nerf, FP boost, and phase repeater added, EMP gun. Awesome on a TP ship. Really happy with that one.
+	* Tenzen now use speed burst system
+	* Chua adjustments
+	* Station now has stuff!
+	* Added Byakuri class carrier, this ship will need balancing.
+	* Changed Byakuri sprite and added new (phase)repeater sprite.
+Version 0.9
+	* Tweaked the Tychrea - it is now a fully fledged ship, still a secret though.
+	* added two new built in weapons, the Explosive AEB and the Kinetic REB.
+	*Added a new ship: The Kyirus interceptor frigate - armed with both new weapons and a nuclear burndrive.

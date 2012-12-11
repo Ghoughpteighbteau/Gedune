@@ -1,0 +1,21 @@
+{
+	"geduneEngine":{
+		"engineColor":[180,255,78,255],
+		"contrailParticleSizeMult":2,
+		"contrailParticleDuration":1,
+		"contrailMaxSpeedMult":-0.2f,
+		"contrailAngularVelocityMult":0f,
+		"contrailColor":[60,60,45,100],
+		"type":"SMOKE" # GLOW or SMOKE
+	},
+   	"geduneEngineFighter":{
+		"engineColor":[200,255,130,255],
+		"contrailParticleSizeMult":5,
+		"contrailParticleDuration":2.5,
+		"contrailMaxSpeedMult":0.3f,
+		"contrailAngularVelocityMult":0f,
+		"contrailColor":[70,70,35,100],
+		"type":"SMOKE" # GLOW or SMOKE
+	},
+
+}

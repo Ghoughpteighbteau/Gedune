@@ -1,0 +1,42 @@
+{
+    "displayName": "Secret",
+    "fluxCapacitors": 5,
+    "fluxVents": 6,
+    "hullId": "gedune_tychrea",
+    "hullMods": [
+        "autorepair",
+        "fluxbreakers"
+    ],
+    "variantId": "gedune_tychrea_variant",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0006": "gedune_phase_repeater"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "gedune_kdart",
+                "WS0007": "gedune_kdart"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "taclaser",
+                "WS0004": "taclaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "gedune_flarepd",
+                "WS0002": "gedune_flarepd"
+            }
+        }
+    ]
+}

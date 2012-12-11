@@ -1,0 +1,59 @@
+id,type,text1,text2,text3,notes
+gedune_dahaki,SHIP,"A very advanced destroyer, with a devastating weapons load-out. Also equipped with a short range phase teleporter, the appearance of a single Dahaki can change the course of a battle.
+
+The Dahaki is one of the very few ships that remain in service since the collapse of the Gedune Empire, and the materials required to build one of these fearsome ships disappeared along with the Gedune home world. When one of these ship are destroyed in combat, common procedure is to recover as much of the vessel as possible, and given time rebuild the Dahaki from the parts of other fallen Gedune ships.
+
+To most Gedune, the Dahaki is a symbol of the power they once commanded.",,,
+,,,,,
+gedune_kyirus,SHIP,"A highly advanced scout, capable of blistering speeds but has surprisingly little firepower. The Kyirus is one of the older designs that the Gedune can still manufacture, and as with all old Gedune tech, it would be unwise to underestimate it. Most of the Kyirus is actually engine, or more precisely a nuclear Burndrive. The Kyirus is highly automated, and practically flies itself - or at it would if it didn't need a crew to pilot it.
+
+Almost every weapon on the Kyirus is integrated, meaning that the class is very inflexible. even so, it is one of the best scout ships you could hope to get your hands on.
+
+This ship was originally designed to clean out scrap from a planets orbit. The Kyirus is able to fly though dense debris fields at high velocity thanks to the dual magnetic shunters mounted on the front of the vessel.
+
+A little known fact is that all Gedune ships are Nuclear, a fact that is apparent in ships like the Tenzen, Dahaki and the kyirus. almost every system onboard these ships are powered directly by their nuclear cores, even their weapons.",,,
+,,,,,
+gedune_mozok,SHIP,"this ship will get your cargo home safe. It's got enough weaponry to put a lasher to shame, and is capable of immense bursts of speed.
+
+The Mozok class ship is a multi purpose hauler, capable of transporting a surprising amount of fuel or cargo depending on which type of container it tows.
+
+This one has no attachment, making it more suited to a support role.",,,
+,,,,,
+gedune_mozok_t,SHIP,"this ship will get your cargo home safe. It's got enough weaponry to put a lasher to shame, and is capable of immense bursts of speed.
+
+The Mozok class ship is a multi purpose hauler, capable of transporting a surprising amount of fuel or cargo depending on which type of container it tows.
+
+This one has a fuel tank attached.",,,
+gedune_mozok_f,SHIP,"this ship will get your cargo home safe. It's got enough weaponry to put a lasher to shame, and is capable of immense bursts of speed.
+
+The Mozok class ship is a multi purpose hauler, capable of transporting a surprising amount of fuel or cargo depending on which type of container it tows.
+
+This one has a cargo container attached.",,,
+,,,,,
+gedune_nanda,SHIP,"this frigate packs a serious punch, although all those weapons leave no room for a shield generator, and its armour is surprisingly thin. the Nanda is most suited to medium range combat.
+
+When the Gedune still had access to the materials necessary to build their mighty ships, the Nanda was considerably more dangerous, with far better armour, weapons and a shield.
+
+Like the Dahaki, only a few of the original Nandas remain, but those that still have their shields and armour are a threat that starfarers can't afford to ignore.",,,
+gedune_tenzen,SHIP,"this ship was deigned with one thing in mind: the pursuit and capture of ships, with weapons that will make short work of anything less than a cruiser and the speed necessary the catch them.
+
+The Tenzen does not cope very well when out numbered, because of the huge flux requirements of its weapons, and yet it exceeds in guerrilla warfare thanks to its ability to activate a nuclear burn in its engines.
+
+In the hands of a skilled captain the Tenzen is a force to be reckoned with.",,,
+,,,,,
+gedune_flarepd,WEAPON,"An interdictor flare system. These flares try to collide with inbound targets, forcing detonation, and bypassing armour common to heavy ordinance.
+
+The flares are crudely constructed vessels with a basic guidance packages capable of holding active plasma shunted from a ships power core. Once a flare is activated the vessel releases stored plasma, propelling the flare towards incoming targets. 
+
+These flares do not give off an effective decoy to missile guidance systems, and so, rely entirely on a physical collision with the target. Ironically these flares are themselves vulnerable to interference from enemy point defense.
+
+The guidance system is capable of working with onboard ECCM to enhance flare tracking.",Point Defense,,
+gedune_repeater,WEAPON,"Affectionally known as the "spam cannon", this gun can sure as hell kick out a beating, although accuracy declines sharply with prolonged use.",Point Defense,,
+gedune_kitsune,SHIP,"A surprisingly high ordinance missile frigate. A relatively new design, the Kitsune can be often be assembled from the dead hulks of destroyers. If given the opportunity, these ships can unleash a terrifying amount of missile powered fury.",,,
+gedune_chua,SHIP,"A new design that utilises high intensity energy beam weapons. Gedune Pilots don't like these fighters, because they often become their coffins.",,,
+gedune_duri,SHIP,"Using FlarePD systems, A Duri wing can unleash a swarm of flares that may, or may not actually hit something.",,,
+gedune_plasma,WEAPON,"Able to launch salvos of up to six bursts, the Nuclear Burst Array is a weapon not to be taken lightly.
+
+Using the frame of a Plasma cannon, the Nuclear burst array draws energy straight from a ships energy core. The raw energy of the burst is actually fired as a beam, this beam is then turned into a burst by strong magnetic field generators. This method of firing allows the number of bursts to be controlled, and fired in rapid succession. Energy is constantly being drawn from the ships power core, unused energy is stored in capacitors for later use. The only limiting factor to the number of shots this beauty can let off, is the amount of energy stored in its capacitors. Adding more capacitors means more shots, but that procedure is best left to the Gedune... unless you really know your stuff",,,
+gedune_edart,WEAPON,"Using physics that only the Gedune understand, four energy based projectiles are launched and home in on their target. A very effective support weapon.",,,
+gedune_kdart,WEAPON,"A very efficient kinetic weapon. Energy based projectiles are launched and propelled by two armlike magnetic field generators at high velocity.",,,

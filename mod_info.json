@@ -1,0 +1,10 @@
+{
+  "id":"The Gedune", # internal id
+	"name":"The Gedune", # displayed to the player
+	"version":"Version 0.9",
+	"description":"The Gedune are back, and they want your scrap. your ships to, if you don't mind.",
+	"gameVersion":"0.53a",
+	"author":"hpyh_k31, and Ghoti",
+	"totalConversion":"false",
+
+}

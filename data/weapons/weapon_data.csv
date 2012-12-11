@@ -1,0 +1,13 @@
+name,id,tier,base value,range,damage/second,damage/shot,emp,impact,turn rate,OPs,ammo,ammo/sec,type,energy/shot,energy/second,chargeup,chargedown,burst size,burst delay,min spread,max spread,spread/shot,spread decay/sec,beam speed,proj speed,launch speed,flight time,proj hitpoints,hints,number
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nuclear Burst,gedune_plasma,3,20000,700,,600,,500,10,25,2,0.55,HIGH_EXPLOSIVE,1000,,,0.3,,,2,14,4,2,,550,,,500,,2
+HI PD Laser,gedune_hipdlaser,1,200,355,75,,,0,75,5,,,ENERGY,,50,0,0.25,,,,,,,2400,,,,,PD,3
+MS Torp Launcher,gedune_maelstrom,2,5800,1000,,3000,,300,20,26,20,,HIGH_EXPLOSIVE,0,,0,15,2,1,0,0,0,0,,300,100,7,600,"STRIKE,GUIDED_POOR",4
+Scythe Launcher,gedune_scythe,1,1200,1000,,3000,,300,20,10,5,,HIGH_EXPLOSIVE,0,,0,15,1,,0,0,0,0,,300,100,7,400,"STRIKE,GUIDED_POOR",5
+Flare PD,gedune_flarepd,2,350,500,,55,,,50,5,15,0.45,HIGH_EXPLOSIVE,110,,,1.6,2,0.2,40,40,,,,320,500,1.7,10,PD,6
+Repeater,gedune_repeater,1,1200,600,,32,,0,20,11,,,ENERGY,45,,0.08,0.04,,,0,20,0.8,7,,850,,,,,22
+Phase Repeater,gedune_phase_repeater,1,1200,650,,27,26,0,20,12,,,ENERGY,45,,0.08,0.04,,,0,25,1.1,7,,850,,,,SYSTEM,22.1
+Disprutor,gedune_disruptor,1,200,500,50,,50,0,75,5,,,ENERGY,,50,0,0.25,,,,,,,2400,,,,,SYSTEM,7
+Reithe Launcher,gedune_reithe,1,1200,1300,,500,,300,20,10,10,,HIGH_EXPLOSIVE,0,,0,15,1,,0,0,0,0,,300,100,10,400,"GUIDED_POOR,STRIKE",8
+Kinetic REB,gedune_kdart,2,600,500,,12,,2,30,,,,KINETIC,20,,0,1.5,12,,0,15,2,15,,1000,,,50,SYSTEM,3.75
+Explosive AEB,gedune_edart,2,600,700,,40,,2,0,,,,HIGH_EXPLOSIVE,35,,0,0.8,,,,,,,,1000,,1.5,50,"SYSTEM,DO_NOT_AIM",3.75

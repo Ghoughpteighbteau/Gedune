@@ -1,0 +1,4 @@
+name,id,flux/second,f/s (base rate),f/s (base cap),flux/use,f/u (base rate),f/u (base cap),max uses,regen,charge up,active,down,cooldown,toggle,noDissipation,noHardDissipation,hardFlux,noFiring,noTurning,noStrafing,noAccel,noShield,icon
+Gedune Phase Teleporter,gedune_phasetele,,,,,,0.05,3,0.15,0.25,,0.25,0,,TRUE,,TRUE,,,,,,graphics/icons/hullsys/high_energy_focus.png
+Nuclear Burn,gedune_burndrive,,,,,,,,,0.7,3,0.7,10,,,,,,TRUE,TRUE,TRUE,TRUE,graphics/icons/hullsys/burn_drive.png
+Kyra Drone,drone_kyra,,,,,,,4,0.2,0,,0,0,,,,,,,,,,graphics/icons/hullsys/drone_pd_high.png
