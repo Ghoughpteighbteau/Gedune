@@ -37,11 +37,7 @@
     55,
     19.5
   ],
-  "builtInWeapons": {
-    "WS0003": "gedune_reithe",
-    "WS0004": "gedune_reithe"
-  },
-  "center": [
+ "center": [
     69,
     70
   ],

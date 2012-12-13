@@ -24,22 +24,19 @@
 	},
 	"fleetCompositions":{
 		"scout":{
-			"displayName":"Scanvengers",
-			"maxFleetPoints":8,
+			"displayName":"Scavengers",
+			"maxFleetPoints":30,
 			"daysWorthOfSupplies":[15, 20],
 			"lyWorthOfFuel":[10, 15],
 			"extraCrewPercent":[30, 50],
 			"marinesPercent":[0, 0],
 			"ships":{
-				"gedune_tenzen_variant":[0, 1],
-				"gedune_mozok_variant1":[0, 1],
-				"gedune_mozok_f_variant1":[0, 1],
-				"gedune_nanda_variant1":[1, 2],
-				"gedune_kitsune_variant":[1, 1],
-				"gedune_kitsune_variant_support":[0, 1],
-				"gedune_kyirus_variant":[1, 2],
-				"gedune_chua_wing":[1, 2],
-            "gedune_duri_wing":[0, 2]
+				"gedune_tenzen_variant":[1, 1],
+				"gedune_dahaki_variant2":[0, 2],
+				"gedune_bakoros_variant":[1, 2],
+				"gedune_kyirus_variant":[2, 3],
+				"gedune_mozok_t_variant1":[1, 3],
+				"gedune_mozok_f_variant1":[1, 1]
 			},
 		},
 		"longRangeScout":{
@@ -50,71 +47,68 @@
 			"extraCrewPercent":[30, 50],
 			"marinesPercent":[0, 0],
 			"ships":{
-				"gedune_nanda_variant1":[0, 2],
-				"gedune_kitsune_variant":[1, 2],
-				"gedune_kitsune_variant_support":[0, 1],
-				"gedune_kyirus_variant":[1, 1],
-				"gedune_chua_wing":[0, 2]
+				"gedune_nanda_variant1":[0, 3],
+				"gedune_kyirus_variant":[1, 2],
+				"gedune_kitsune_variant":[0, 1],
+				"gedune_chua_wing":[1, 2]
 				
 			},
 		
 		},
 		"raiders":{
 			"displayName":"Raiders",
-			"maxFleetPoints":30,
+			"maxFleetPoints":40,
 			"daysWorthOfSupplies":[15, 20],
 			"lyWorthOfFuel":[10, 15],
 			"extraCrewPercent":[30, 50],
 			"marinesPercent":[1, 2],
 			"ships":{
 				"gedune_tenzen_variant":[0, 1],
-				"gedune_mozok_f_variant1":[1, 2],
-				"gedune_dahaki_variant2":[0, 1],
-				"gedune_nanda_variant1":[1, 3],
-				"gedune_kitsune_variant":[0, 3],
+				"gedune_dahaki_variant2":[2, 3],
+				"gedune_kitsune_variant":[1, 2],
 				"gedune_kyirus_variant":[1, 2],
-				"gedune_chua_wing":[0, 1],
-            "gedune_duri_wing":[0, 2]
+				"gedune_nanda_variant1":[0, 4],
+				"gedune_byakuri_variant":[1, 1],
+				"gedune_chua_wing":[0, 2],
+            "gedune_duri_wing":[0, 3]
 			},
 		},
 		"libers":{
 			"displayName":"Liberators",
-			"maxFleetPoints":70,
+			"maxFleetPoints":120,
 			"daysWorthOfSupplies":[15, 20],
 			"lyWorthOfFuel":[10, 15],
 			"extraCrewPercent":[30, 50],
 			"marinesPercent":[1, 2],
 			"ships":{
-				"gedune_mozok_variant1":[0, 1],
-				"gedune_mozok_t_variant1":[0, 2],
-				"gedune_mozok_f_variant1":[1, 2],
-				"gedune_dahaki_variant2":[1, 2],
-				"gedune_tenzen_variant":[1, 1],
+				"gedune_tenzen_variant":[2, 2],
+				"gedune_bakoros_variant":[0, 2],
+				"gedune_dahaki_variant2":[1, 3],
+				"gedune_kyirus_variant":[2, 4],
+				"gedune_kitsune_variant":[1, 2],
+				"gedune_kitsune_variant_attack":[0, 1],
+				"gedune_nanda_variant1":[1, 5],
 				"gedune_byakuri_variant":[1, 2],
-				"gedune_nanda_variant1":[0, 3],
-				"gedune_kitsune_variant":[0, 3],
-				"gedune_kitsune_variant_support":[0, 2],
-				"gedune_kyirus_variant":[1, 2],
-				"gedune_chua_wing":[2, 3],
-				"gedune_duri_wing":[1, 2]
+				"gedune_chua_wing":[0, 4],
+				"gedune_duri_wing":[2, 2]
+				
 			},
 		},
 		"elite":{
 			"displayName":"Elites",
-			"maxFleetPoints":45,
+			"maxFleetPoints":60,
 			"daysWorthOfSupplies":[15, 20],
 			"lyWorthOfFuel":[10, 15],
 			"extraCrewPercent":[30, 50],
 			"marinesPercent":[1, 2],
 			"ships":{
-				"gedune_dahaki_variant2":[0, 3],
+				"gedune_dahaki_variant2":[3, 5],
 				"gedune_tenzen_variant":[0, 1],
-				"gedune_chua_wing":[0, 4],
-				"gedune_byakuri_variant":[0, 1],
-				"gedune_kitsune_variant_attack":[0, 3],
-				"gedune_kyirus_variant":[0, 2],
-            "gedune_nanda_variant1":[0, 2],
-            "gedune_mozok_f_variant1":[0, 1]
+				"gedune_kitsune_variant_attack":[1, 2],
+				"gedune_kyirus_variant":[1, 2],
+            "gedune_nanda_variant1":[2, 3],
+            "gedune_mozok_f_variant1":[1, 1],
+            "gedune_mozok_t_variant1":[1, 1]
 			},
 		},
       "drones":{
@@ -159,19 +153,19 @@
 			
 		},
 		"captain":{
-			"cowardly":1,
+			"cowardly":0,
 			"cautious":1,
-			"steady":1,
-			"aggressive":2,
-			"suicidal":1,
+			"steady":2,
+			"aggressive":3,
+			"suicidal":0,
 			"fearless":3,
 		},
 	},
 	"dialogue":{
-		"greetingFriendly":"I've never met you, but the computer says we're friends. I suppose that means we can't scrap your ship",
-		"greetingNeutral":"Unless you have something REALLY important to tell us, stay away.",
-		"greetingHostileAggressive":"You've got some nice hard-ware there mate… It'd be a shame to damage it, why don't you just hand it over?",
-		"greetingHostileTimid":"You may have caught us, but the fight isn't over yet!",
+		"greetingFriendly":"Greetings! We'd love to stay and chat, but there are sights to see and things to steal!",
+		"greetingNeutral":"You're not on our record... unless you have business with us, leave now.",
+		"greetingHostileAggressive":"We hold the advantage here commander, surrender now and your life may be spared.",
+		"greetingHostileTimid":"I don't suppose you'll surrender, eh?",
 	}
 	
 },
