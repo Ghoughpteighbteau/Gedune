@@ -1,7 +1,7 @@
 id,type,text1,text2,text3,notes
-gedune_dahaki,SHIP,"A very advanced destroyer, with a devastating weapons load-out. Also equipped with a short range phase teleporter, the appearance of a single Dahaki can change the course of a battle.
+gedune_dahaki,SHIP,"An destroyer, with a devastating weapons load-out. Equipped with a short range phase teleporter. Most effective when used in groups.
 
-The Dahaki is one of the very few ships that remain in service since the collapse of the Gedune Empire, and the materials required to build one of these fearsome ships disappeared along with the Gedune home world. When one of these ship are destroyed in combat, common procedure is to recover as much of the vessel as possible, and given time rebuild the Dahaki from the parts of other fallen Gedune ships.
+The Dahaki is one of the very few ships that remain in service since the collapse of the Gedune Empire, and the materials required to build one of these fearsome ships disappeared along with the Gedune home world. When one of these ships are destroyed in combat, it is common procedure to recover as much of the vessel as possible, and given time rebuild the Dahaki from the parts of other fallen Gedune ships.
 
 To most Gedune, the Dahaki is a symbol of the power they once commanded.",,,
 ,,,,,
@@ -48,12 +48,21 @@ The flares are crudely constructed vessels with a basic guidance packages capabl
 These flares do not give off an effective decoy to missile guidance systems, and so, rely entirely on a physical collision with the target. Ironically these flares are themselves vulnerable to interference from enemy point defense.
 
 The guidance system is capable of working with onboard ECCM to enhance flare tracking.",Point Defense,,
-gedune_repeater,WEAPON,"Affectionally known as the "spam cannon", this gun can sure as hell kick out a beating, although accuracy declines sharply with prolonged use.",Point Defense,,
+gedune_repeater,WEAPON,"Affectionally known as the "spam cannon", this gun can sure as hell kick out a beating, although accuracy declines sharply with prolonged use.",,,
 gedune_kitsune,SHIP,"A surprisingly high ordinance missile frigate. A relatively new design, the Kitsune can be often be assembled from the dead hulks of destroyers. If given the opportunity, these ships can unleash a terrifying amount of missile powered fury.",,,
 gedune_chua,SHIP,"A new design that utilises high intensity energy beam weapons. Gedune Pilots don't like these fighters, because they often become their coffins.",,,
 gedune_duri,SHIP,"Using FlarePD systems, A Duri wing can unleash a swarm of flares that may, or may not actually hit something.",,,
-gedune_plasma,WEAPON,"Able to launch salvos of up to six bursts, the Nuclear Burst Array is a weapon not to be taken lightly.
+gedune_plasma,WEAPON,"Each energy burst contains a mix for charged particles and unstable elements created by nuclear fission. Contact initiates an explosion that can strip away the armour of most ships.
 
-Using the frame of a Plasma cannon, the Nuclear burst array draws energy straight from a ships energy core. The raw energy of the burst is actually fired as a beam, this beam is then turned into a burst by strong magnetic field generators. This method of firing allows the number of bursts to be controlled, and fired in rapid succession. Energy is constantly being drawn from the ships power core, unused energy is stored in capacitors for later use. The only limiting factor to the number of shots this beauty can let off, is the amount of energy stored in its capacitors. Adding more capacitors means more shots, but that procedure is best left to the Gedune... unless you really know your stuff",,,
-gedune_edart,WEAPON,"Using physics that only the Gedune understand, four energy based projectiles are launched and home in on their target. A very effective support weapon.",,,
+Frigate captains are advised to use extreme caution if faced with such a weapon.",,,
+gedune_edart,WEAPON,"Using physics that only the Gedune understand, four energy based projectiles are launched and home in on their target. An effective support weapon.
+
+Each projectile is guided by a virtual line created in subspace. Each line has a unique signature matched with that of the projectile it was created to guide, this signature acts like a quantum "glue" forcing the projectile to follow it.",,,
 gedune_kdart,WEAPON,"A very efficient kinetic weapon. Energy based projectiles are launched and propelled by two armlike magnetic field generators at high velocity.",,,
+gedune_disruptor,WEAPON,"A very simple weapon that emits a steady stream of ionised particles.",,,
+gedune_bakoros,SHIP,"Designed by the Gedune to dismantle scrapped ships, the Bakoros class drone carrier is entirely self sufficient.",,,
+gedune_phase_repeater,WEAPON,"Almost identical to the standard repeater, the phase repeater makes use of a phase coil to energise each shot.",,,
+gedune_scythe,WEAPON,"A modified reaper launcher, each Scythe torpedo comes with a guidance system at the cost of a lower yield.",,,
+gedune_maelstrom,WEAPON,"A serious torpedo launcher. The perfect weapon for the lazy bomber",,,
+gedune_reithe,WEAPON,"A very strange weapon, originally designed to tear wreckage to pieces, it does just as well against operational ships.",,,
+gedune_byakuri,SHIP,"A very new design, the Byakuri is a very compact and effective carrier with quite a sting to its name.",,,

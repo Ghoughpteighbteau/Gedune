@@ -17,3 +17,6 @@ Version 0.9
 	* Tweaked the Tychrea - it is now a fully fledged ship, still a secret though.
 	* added two new built in weapons, the Explosive AEB and the Kinetic REB.
 	*Added a new ship: The Kyirus interceptor frigate - armed with both new weapons and a nuclear burndrive.
+Version 0.95
+	* Added descriptions to everything excluding the Kyra drone.
+	* rebalanced the nuclear burst weapon (formerly gedune plasma).

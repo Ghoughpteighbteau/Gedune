@@ -89,7 +89,7 @@
 				"gedune_kitsune_variant_attack":[0, 1],
 				"gedune_nanda_variant1":[1, 5],
 				"gedune_byakuri_variant":[1, 2],
-				"gedune_chua_wing":[0, 4],
+				"gedune_chua_wing":[2, 4],
 				"gedune_duri_wing":[2, 2]
 				
 			},
@@ -102,11 +102,9 @@
 			"extraCrewPercent":[30, 50],
 			"marinesPercent":[1, 2],
 			"ships":{
-				"gedune_dahaki_variant2":[3, 5],
-				"gedune_tenzen_variant":[0, 1],
-				"gedune_kitsune_variant_attack":[1, 2],
-				"gedune_kyirus_variant":[1, 2],
-            "gedune_nanda_variant1":[2, 3],
+				"gedune_dahaki_variant2":[4, 5],
+				"gedune_tenzen_variant":[1, 1],
+				"gedune_kyirus_variant":[1, 4],
             "gedune_mozok_f_variant1":[1, 1],
             "gedune_mozok_t_variant1":[1, 1]
 			},
