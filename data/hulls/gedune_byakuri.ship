@@ -1,6 +1,6 @@
 {
   "bounds": [
-    -59,
+    -78.5,
     -19,
     -28,
     -22,
@@ -22,14 +22,14 @@
     43.5,
     -28,
     22,
-    -59,
+    -78.5,
     19
   ],
   "center": [
     51,
-    62.5
+    109.5
   ],
-  "collisionRadius": 77.398323,
+  "collisionRadius": 73.730926,
   "engineSlots": [
     {
       "angle": -180,
@@ -56,16 +56,16 @@
       "width": 14
     }
   ],
-  "height": 125,
+  "height": 175,
   "hullId": "gedune_byakuri",
   "hullName": "Byakuri",
   "hullSize": "DESTROYER",
   "shieldCenter": [
-    0.5,
-    -0
+    -1,
+    -0.5
   ],
-  "shieldRadius": 67.97242,
-  "spriteName": "graphics/gedune/ships/gedune_byakuri.png",
+  "shieldRadius": 92.803558,
+  "spriteName": "graphics/gedune/ships/gedune_byakuri2.png",
   "style": "MIDLINE",
   "viewOffset": 0,
   "weaponSlots": [
