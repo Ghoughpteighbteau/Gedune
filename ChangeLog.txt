@@ -20,3 +20,7 @@ Version 0.9
 Version 0.95
 	* Added descriptions to everything excluding the Kyra drone.
 	* rebalanced the nuclear burst weapon (formerly gedune plasma).
+	* Further tweaking of the NC. lower damage and a longer charging rate.
+Version 1
+	* Re-made the Tychrea frigate. Is now sightly bigger, less weaponry and uses a drone system
+	* added the wraithii drone, along with the wraith weapon - a high speed low yield blaster.
