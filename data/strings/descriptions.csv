@@ -52,7 +52,8 @@ gedune_repeater,WEAPON,"Affectionally known as the "spam cannon", this gun can s
 gedune_kitsune,SHIP,"A surprisingly high ordinance missile frigate. A relatively new design, the Kitsune can be often be assembled from the dead hulks of destroyers. If given the opportunity, these ships can unleash a terrifying amount of missile powered fury.",,,
 gedune_chua,SHIP,"A new design that utilises high intensity energy beam weapons. Gedune Pilots don't like these fighters, because they often become their coffins.",,,
 gedune_duri,SHIP,"Using FlarePD systems, A Duri wing can unleash a swarm of flares that may, or may not actually hit something.",,,
-gedune_plasma,WEAPON,"Each energy burst contains a mix for charged particles and unstable elements created by nuclear fission. Contact initiates an explosion that can strip away the armour of most ships.
+gedune_plasma,WEAPON,"Each energy burst contains a mix for charged particles and unstable elements created by nuclear fission.
+Contact initiates an explosion that can strip away the armour of most ships.
 
 Frigate captains are advised to use extreme caution if faced with such a weapon.",,,
 gedune_edart,WEAPON,"Using physics that only the Gedune understand, four energy based projectiles are launched and home in on their target. An effective support weapon.
@@ -63,6 +64,14 @@ gedune_disruptor,WEAPON,"A very simple weapon that emits a steady stream of ioni
 gedune_bakoros,SHIP,"Designed by the Gedune to dismantle scrapped ships, the Bakoros class drone carrier is entirely self sufficient.",,,
 gedune_phase_repeater,WEAPON,"Almost identical to the standard repeater, the phase repeater makes use of a phase coil to energise each shot.",,,
 gedune_scythe,WEAPON,"A modified reaper launcher, each Scythe torpedo comes with a guidance system at the cost of a lower yield.",,,
-gedune_maelstrom,WEAPON,"A serious torpedo launcher. The perfect weapon for the lazy bomber",,,
+gedune_maelstrom,WEAPON,"Launching two Scythe torpedoes, the Maelstrom is a very reliable weapon.",,,
 gedune_reithe,WEAPON,"A very strange weapon, originally designed to tear wreckage to pieces, it does just as well against operational ships.",,,
 gedune_byakuri,SHIP,"A very new design, the Byakuri is a very compact and effective carrier with quite a sting to its name.",,,
+gedune_tychrea,SHIP,"An automated attack drone. The Tychrea is well suited to pursuing and disabling damaged targets.
+These drones are very easy to build, unfortunately, the Gedune are no longer in possession of the blueprints...",,,
+gedune_viper,SHIP,"Nasty little things. These drones are networked together, allowing them to act as a fighter wing independently of a mothership.
+These drones are about as intelligent as the average dog, which means they're pretty easy to confuse - often orbiting around their target without actually shooting. However, the name Viper is not in-vain, they can do some serious damage if they can get an unshielded target in their crosshairs. Viper drones are also quite fragile, but they are far superior to talon wings.
+
+Vipers are also capable of atmospheric combat. ",,,
+gedune_wraithii,WEAPON,"A long range, low yield blaster.
+Wraithii cannons are very old, but they are incredibly efficient, able to hurl an energy bolt at frightening speeds and at impressive ranges.",,,

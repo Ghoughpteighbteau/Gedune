@@ -1,9 +1,12 @@
 {
-	"id":"gedune",
+	id:"gedune",
 	"color":[130,160,50,255],
 	"displayName":"Gedune",
 	"shipNamePrefix":"GMS",
-	"description":"",
+	"shipNameSources":{
+		"JAPANESE":2,
+	},
+	"description":"No description yet.",
 	"names":{
 		"fringe":1,
 	},
@@ -31,11 +34,10 @@
 			"extraCrewPercent":[30, 50],
 			"marinesPercent":[0, 0],
 			"ships":{
-				"gedune_tenzen_variant":[1, 1],
-				"gedune_dahaki_variant2":[0, 2],
-				"gedune_bakoros_variant":[1, 2],
-				"gedune_kyirus_variant":[2, 3],
-				"gedune_mozok_t_variant1":[1, 3],
+				"gedune_tenzen_variant":[0, 1],
+				"gedune_dahaki_variant2":[1, 2],
+				"gedune_kyirus_variant":[1, 3],
+				"gedune_mozok_t_variant1":[1, 1],
 				"gedune_mozok_f_variant1":[1, 1]
 			},
 		},
@@ -64,10 +66,10 @@
 			"marinesPercent":[1, 2],
 			"ships":{
 				"gedune_tenzen_variant":[0, 1],
-				"gedune_dahaki_variant2":[2, 3],
-				"gedune_kitsune_variant":[1, 2],
+				"gedune_dahaki_variant2":[1, 2],
+				"gedune_kitsune_variant":[1, 1],
 				"gedune_kyirus_variant":[1, 2],
-				"gedune_nanda_variant1":[0, 4],
+				"gedune_nanda_variant1":[0, 3],
 				"gedune_byakuri_variant":[1, 1],
 				"gedune_chua_wing":[0, 2],
             "gedune_duri_wing":[0, 3]
@@ -87,7 +89,7 @@
 				"gedune_kyirus_variant":[2, 4],
 				"gedune_kitsune_variant":[1, 2],
 				"gedune_kitsune_variant_attack":[0, 1],
-				"gedune_nanda_variant1":[1, 5],
+				"gedune_nanda_variant1":[1, 4],
 				"gedune_byakuri_variant":[1, 2],
 				"gedune_chua_wing":[2, 4],
 				"gedune_duri_wing":[2, 2]
@@ -102,26 +104,11 @@
 			"extraCrewPercent":[30, 50],
 			"marinesPercent":[1, 2],
 			"ships":{
-				"gedune_dahaki_variant2":[4, 5],
+				"gedune_dahaki_variant2":[4, 4],
 				"gedune_tenzen_variant":[1, 1],
-				"gedune_kyirus_variant":[1, 4],
+				"gedune_kyirus_variant":[2, 3],
             "gedune_mozok_f_variant1":[1, 1],
             "gedune_mozok_t_variant1":[1, 1]
-			},
-		},
-      "drones":{
-			"displayName":"Collectors",
-			"maxFleetPoints":45,
-			"daysWorthOfSupplies":[15, 20],
-			"lyWorthOfFuel":[10, 15],
-			"extraCrewPercent":[30, 50],
-			"marinesPercent":[1, 2],
-			"ships":{
-				"gedune_dahaki_variant2":[0, 2],
-				"gedune_tenzen_variant2":[1, 1],
-				"gedune_bakoros_variant":[3, 5],
-				"gedune_byakuri_variant":[0, 1],
-				"gedune_chua_wing":[3, 5]
 			},
 		},
 		"siege":{
@@ -137,7 +124,6 @@
 				"gedune_nanda_variant1":[1, 3],
 				"gedune_kitsune_variant":[1, 4],
 				"gedune_kitsune_variant_support":[1, 2],
-				"gedune_mozok_variant1":[1, 3],
 				"gedune_mozok_f_variant1":[1, 2],
 				"gedune_byakuri_variant":[2, 2],
 				"gedune_kyirus_variant":[2, 4],

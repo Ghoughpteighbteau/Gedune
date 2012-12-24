@@ -8,9 +8,9 @@
 	"hardpointSprite":"graphics/gedune/weapons/gedune_repeater.png",
 	"hardpointGlowSprite":"graphics/gedune/weapons/gedune_repeater_glow.png",
 	"glowColor":[255,100,255,255],
-	"turretOffsets":[30, 0],
+	"turretOffsets":[26, 0],
 	"turretAngleOffsets":[0],
-	"hardpointOffsets":[30, 0],
+	"hardpointOffsets":[26, 0],
 	"hardpointAngleOffsets":[0],
 	"barrelMode":"ALTERNATING", # or LINKED.  whether barrels fire at the same time or alternate.
 	#"animationType":"GLOW",

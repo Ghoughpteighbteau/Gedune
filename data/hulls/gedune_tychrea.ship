@@ -129,10 +129,10 @@
       "arc": 6,
       "id": "WS0006",
       "locations": [
-        36,
+        30,
         -0
       ],
-      "mount": "HARDPOINT",
+      "mount": "HIDDEN",
       "size": "MEDIUM",
       "type": "BUILT_IN"
     },

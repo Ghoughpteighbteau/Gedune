@@ -13,20 +13,18 @@ public class GeduneSpawnPoint extends BaseSpawnPoint {
 	@Override
 	protected CampaignFleetAPI spawnFleet() {
 		float r = (float) Math.random();
-		if (       (r -= .10f) < 0) {
+		if (       (r -= .5f) < 0) {
 			return raidFleet("scout");
-		} else if ((r -= .15f) < 0) {
+		} else if ((r -= .4f) < 0) {
 			return raidFleet("longRangeScout");
-		} else if ((r -= .15f) < 0) {
-			return raidFleet("drones");
-		} else if ((r -= .2f) < 0) {
+		} else if ((r -= .3f) < 0) {
 			return raidFleet("raiders");
 		} else if ((r -= .2f) < 0) {
-			return Math.random() > 0.25 ? raidFleet("libers"): defendFleet("libers");
+			return Math.random() > 0.3 ? raidFleet("libers"): defendFleet("libers");
 		} else if ((r -= .2f) < 0) {
-         return l33tFleet(Math.random() > 0.50 ? raidFleet("elite"): defendFleet("elite"));
+         return l33tFleet(Math.random() > 0.1 ? raidFleet("elite"): defendFleet("elite"));
 		} else {
-			return Math.random() > 0.75 ? raidFleet("siege"): defendFleet("siege");
+			return Math.random() > 0.1 ? raidFleet("siege"): defendFleet("siege");
 		}
 	}
 
